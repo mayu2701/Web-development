@@ -1,0 +1,46 @@
+html {
+    scroll-behavior: smooth;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../fonts/Poppins/Poppins-Regular.ttf);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+label,
+input,
+span {
+    font-family: Poppins;
+}
+
+#services.services-bg {
+    background: linear-gradient(84.14deg,
+            rgba(242, 207, 239, 0.56) 4.67%,
+            rgba(116, 152, 248, 0.42) 91%);
+    background-size: cover;
+}
+
+.text-justified {
+    text-align: justify !important;
+}
+
+#our-team.team-bg {
+    background: linear-gradient(84.14deg,
+            rgba(242, 207, 239, 0.56) 4.67%,
+            rgba(116, 152, 248, 0.42) 91%);
+    background-size: cover;
+}
+
+#contact.contact-bg {
+    background: linear-gradient(84.14deg,
+            rgba(242, 207, 239, 0.56) 4.67%,
+            rgba(116, 152, 248, 0.42) 91%);
+    background-size: cover;
+}
